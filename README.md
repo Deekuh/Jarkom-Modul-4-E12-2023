@@ -661,100 +661,68 @@ Di sini kami melakukan ping dari client **AppetitRegion** ke client **GranzChann
 
 - LaubHills
 
-  ![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/114421539/9b80a295-213b-46f0-a6ce-2951fccca7b6)
-
-  ![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/114421539/261dbbc4-c25d-4577-891d-418ab25d5cd0)
+  ![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/114421539/e27a6ff2-8c82-414d-bce6-ac195ea604cc)
 
 - AppetitRegion
 
-  ![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/114421539/52685f0d-3493-4364-bb9f-ca8ed34cd1db)
+  ![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/114421539/fc13ab0a-f595-4814-b61f-a877d74c204a)
 
-  ![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/114421539/416061d6-8f78-4a84-9f71-5b1e216dffd3)
-  
 - RohrRoad
 
-  ![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/114421539/6ff29f8b-0d8b-42dd-ab49-4cd6ae176dc5)
-
-  ![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/114421539/7cc9106b-dd27-459c-898a-7a0bd9702d3a)
+  ![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/114421539/4f1a9d10-fd37-4c84-be54-7089cf706029)
 
 - SchwerMountains
 
-  ![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/114421539/e57d8150-93a1-4e99-8e94-a95de1416b4f)
-
-  ![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/114421539/42c3f853-68f6-4458-955a-f0a023825225)
+  ![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/114421539/0d4c7d79-86ba-402f-b7a0-40462f9bbf61)
 
 - BredtRegion
 
-  ![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/114421539/8fc25376-89ca-4ae7-af03-66f6a8297850)
-
-  ![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/114421539/da0f53a4-ac21-41dc-9382-39074ed1e10e)
-  
+  ![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/114421539/1ba1722c-72e5-43b8-9001-870d08e44560)
+ 
 - RiegelCanyon
 
-  ![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/114421539/8bca7692-fe15-4f48-ad07-6a9abea80056)
+  ![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/114421539/8f5a6d10-d0c0-4bcd-a3ce-6bd7ddab6e03)
 
-  ![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/114421539/bcf01e0c-9036-4566-80c2-fe0f76feedb7)
- 
 - LakeKorridor
 
-  ![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/114421539/c92aef19-dc45-4790-9a4f-e41e503483f9)
+  ![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/114421539/c7f05c66-d3aa-4657-b206-b9d143bb1f15)
 
-  ![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/114421539/8d6963f7-a3e3-4f28-84c8-6730f5a5ad90)
-  
 - GranzChannel
 
-  ![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/114421539/60d7d955-7aeb-4a19-8cfd-2464ad0494f0)
-
-  ![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/114421539/60720759-74e5-476b-bca1-11168c3d087e)
+  ![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/114421539/d85a3ae4-dc9b-47d3-9679-0675f756ac72)
 
 - GrobeForest
 
-  ![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/114421539/b5472c04-ec96-40b4-a76a-4326d6881f96)
-
-  ![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/114421539/259e2276-6a4f-4bae-94bd-15055102e70d)
+  ![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/114421539/ccd35c42-c11b-489e-abde-540ea97f78b5)
   
 - TurkRegion
 
-  ![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/114421539/bfcfd99a-15c6-43f7-a426-2df2ddc48fd8)
-
-  ![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/114421539/0c45891f-4478-427c-83f0-e29c10d42c2a)
+  ![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/114421539/925a7171-d190-41ee-acd2-419ed4ebb5c1)
 
 - WilleRegion
 
-  ![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/114421539/2aab1672-6ad1-44c9-9ba7-fd7aaa4500a4)
-
-  ![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/114421539/6cec51cc-3908-4f31-a10d-14e636dd0ff8)
+  ![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/114421539/3f5197fb-9e49-4075-a853-2537bc44418a)
 
 - RoyalCapital
 
-  ![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/114421539/fb883e5b-a4ac-49f6-8c15-45964ca2d374)
-
-  ![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/114421539/9f4bee3a-c033-420c-852a-446b75c24745)
+  ![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/114421539/b35d9771-e583-4d42-8974-0c0efb976e46)
 
 - Richter
 
-  ![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/114421539/45e30229-2833-4c6a-bbe6-d91343cd87d8)
-
-  ![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/114421539/8386b115-8014-4e50-b400-3a754b956442)
+  ![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/114421539/61f0b156-f93b-4580-a319-7855debffa46)
 
 - Revolte
 
-  ![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/114421539/7387bac6-ab3f-4110-a425-1dd5a24a9d34)
-
-  ![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/114421539/895f2bff-e596-4059-a6f3-c70d220e4204)
+  ![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/114421539/8c559dbc-062f-445d-941f-d2b2ec579fb9)
 
 - Stark
 
-  ![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/114421539/3e732bf6-8457-4ef9-aec0-ce344b036854)
-
-  ![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/114421539/6ffaea17-1b7e-4527-8ac7-e32e503e5e2a)
+  ![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/114421539/05b8a761-17d8-4803-bbd6-1b342a0c265b)
 
 - Sein
 
-  ![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/114421539/7fbeca35-0959-4083-87ab-c1f52765f259)
+  ![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/114421539/88b88ff5-4f1e-4055-9ff6-a990e4338ffe)
 
-  ![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/114421539/b4bae955-2201-4577-9c6b-b7351d577959)
- 
 ### Testing
 
 Di sini kami melakukan ping dari client **AppetitRegion** ke client **GranzChannel**, dari client **SchwerMountains** ke client **WilleRegion**, dari client **LakeKorridor** ke server **Sein**, dan dari client **GrobeForest** ke client **SchwerMountains** dengan hasil sebagai berikut.
