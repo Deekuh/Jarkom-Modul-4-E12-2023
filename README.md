@@ -485,7 +485,7 @@ route add -net 0.0.0.0 netmask 0.0.0.0 gw 192.212.0.129 #default
 
 ### Testing
 
-Sebagai contoh, di sini kami melakukan ping dari client **AppetitRegion** ke client **GranzChannel** dengan IP Address 192.212.4.2.
+Di sini kami melakukan ping dari client **AppetitRegion** ke client **GranzChannel** dengan IP Address 192.212.4.2.
 
 ![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/90295688/122f0f5c-cb44-4df7-9258-1f159a1df685)
 
