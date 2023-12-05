@@ -555,110 +555,205 @@ Di sini kami melakukan ping dari client **AppetitRegion** ke client **GranzChann
 
 - Aura
 
-  ![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/114421539/0981b801-30d1-43cb-8b1d-ce4ef7b9a366)
+  ![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/114421539/2410c8b9-a1a4-43c1-8868-5f03ed4407b7)
 
-  ![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/114421539/f91c4636-1d5b-4f1c-8bcf-fc8df2689f2c)
+  ![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/114421539/09181499-0806-4045-9047-846213b32399)
   
-  ![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/114421539/60a86857-dd81-47ba-9d26-4af0ea798a62)
+  ![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/114421539/cbef7c14-69aa-44ce-a614-68830d8d3860)
   
-  ![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/114421539/ff94de05-fd44-4c3e-b30f-f1bdd99cf6a2)
+  ![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/114421539/6b6d1425-1f23-44fd-be2f-a1e908ca415a)
 
 - Frieren
 
-  ![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/114421539/b16cffd6-2cfb-47fa-a319-f368ba4fd9f9)
+  ![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/114421539/ff4c6778-bbfe-4a36-8a88-28e567aa806c)
 
-  ![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/114421539/f9e3b5e7-3b0b-41da-9bd4-8d8d6fea6105)
+  ![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/114421539/57ce775c-834b-440c-aae4-1c82de012736)
 
-  ![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/114421539/1e1f1f47-a6d0-41b5-a777-23edfac5f0ab)
+  ![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/114421539/cca633e4-2a7d-4b95-bf64-49936d39a5cd)
   
-  ![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/114421539/6e26dec5-8cf6-43c7-b562-146a00176bdb)
+  ![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/114421539/12f18359-0eae-4ad4-b467-31ae11017f16)
  
 - Flamme
 
-  ![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/114421539/12c8b565-9beb-4fd0-9125-2c772408744f)
+  ![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/114421539/f579cf7d-7f7c-4b91-8bec-d3589eabb5d3)
 
-  ![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/114421539/9b480d91-326b-4bfa-8baa-50048d1d9e99)
+  ![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/114421539/21537638-cb62-4145-b9a6-84c9a51f4326)
 
-  ![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/114421539/e5a1be34-feec-46af-b113-9c030ae2202f)
+  ![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/114421539/d08527bd-dbc0-49a0-8c3e-6bbf54172ea1)
   
-  ![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/114421539/20a85591-f46f-4fad-9514-f49f133a0b26)
+  ![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/114421539/e0328fe2-c0d6-4b9a-96b3-751bbb027ea2)
   
-  ![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/114421539/39259da3-8331-4b54-bb28-56e16db67161)
+  ![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/114421539/a7d0ff11-9cf1-47bb-8d7e-0702073dc697) 
 
 - Fern
 
-  ![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/114421539/8134d380-5579-40d4-8e6a-8616431ce029)
+  ![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/114421539/d39c82d4-2a8d-460f-b01b-94daf1059655)
 
-  ![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/114421539/73223912-476a-4c97-9f05-f1290710c581)
+  ![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/114421539/c1999a36-9cef-490f-a590-1bd7973cbbd1)
 
-  ![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/114421539/b15bfa4a-dc11-4fb1-9c05-8e38d2440927)
+  ![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/114421539/0c5560a3-a8e1-4ab0-92df-06166e1116b2)
 
 - Himmel
 
-  ![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/114421539/94674bda-6ccd-4915-83e6-eacba429c7bb)
+  ![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/114421539/39c51e7e-b623-4dce-a09f-79e6dfb00ee1)
 
-  ![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/114421539/9794fa6e-131a-4f60-b1a6-ba6d66c95dc5)
+  ![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/114421539/2df9c285-0c86-4aaf-972b-e7c7129789f1)
 
-  ![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/114421539/9edc634a-a574-43c6-b6d9-97f3d751cacb)
+  ![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/114421539/8b055e55-b064-4018-a0e5-d012547748e0)
 
 - Denken
 
-  ![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/114421539/a4f50bf1-27bc-4f57-9314-842c235e4be6)
+  ![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/114421539/29965f06-b2c0-4444-99e0-68a7a7de5d0f)
 
-  ![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/114421539/56e3b120-5507-494f-9d61-1d7b5f1ae24b)
+  ![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/114421539/bfd43f5e-03ca-49f8-bc45-f616061390d1)
 
-  ![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/114421539/58eeb778-3d0c-431d-949b-2c6dc248c3cf)
-  
+  ![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/114421539/535be668-253e-45f0-be34-1f939d2c7e68)
 
 - Eisen
 
-  ![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/114421539/85b9f7fb-eaae-4cf6-97a2-3d2e97464219)
+  ![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/114421539/e4ff89f9-11ea-45fa-a8b0-f16f3f03192c)
 
-  ![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/114421539/3b71277f-218b-4864-95be-ecb565c7f914)
+  ![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/114421539/f348a63f-86d2-4d2c-b79a-d9f749049bea)
 
-  ![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/114421539/d85384ab-ed04-4b5d-9e5e-d95ae7dd2f16)
+  ![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/114421539/d6cece01-46e9-4abf-9193-30333e4e4d4f)
   
-  ![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/114421539/144c4983-b169-4258-8f35-0be23833cdf1)
+  ![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/114421539/f543aa35-b316-4e04-b3d3-fd195f02ff09)
 
-  ![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/114421539/051e402f-6572-4eef-a25f-d9a1060870e9)
+  ![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/114421539/70ee53c8-94d5-48e9-8ea4-ef30665aa370)
 
-  ![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/114421539/cff7a480-c048-439a-9ad5-ac511992055b)
+  ![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/114421539/e0b471b1-79c3-4e79-adcd-a1f5ba0947a7)
 
 - Lugner
 
-  ![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/114421539/244a6954-fc70-47b5-bc6e-fbd9a054a55f)
+  ![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/114421539/480eaea6-f5d6-452b-bc25-e5c98603e613)
 
-  ![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/114421539/9d92eb97-df76-4f2f-a5ab-80b020242719)
+  ![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/114421539/61868701-1fbb-432a-b8df-bd12b3a05efc)
 
-  ![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/114421539/7eb260ae-b3fe-4b55-9efb-8f2b334c3dc6)
+  ![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/114421539/971f2b26-8e65-4ee3-94b0-2af5b18f6b3c)
   
-  ![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/114421539/eb28a29f-c32b-41c5-9a37-0c1f8dd7d02d)
+  ![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/114421539/18a5076b-72d2-49cd-a80c-3204d03d7193)
 
 - Linie
 
-  ![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/114421539/2640b911-999f-49e8-bf9f-73037ec2a92e)
+  ![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/114421539/f4bc1cc7-255b-4fb7-8ef4-2392477ea99b)
 
-  ![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/114421539/d5896f9e-47c9-4eac-b9a9-29eb7582b3f6)
+  ![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/114421539/18e651f1-c95d-489b-9a68-6477a19511c8)
 
-  ![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/114421539/87fd7fc3-a5d8-4b39-9f34-140f869a9f67)
+  ![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/114421539/ba84fe8c-ec64-4990-ac24-12d31f21548e)
   
-  ![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/114421539/98970cac-4aa6-4ee4-8616-01ec5b766693)
+  ![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/114421539/7e0062ac-685a-43d8-90be-f032d153f90b)
 
 - Lawine
 
-  ![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/114421539/c3b2b072-d1ba-4d3f-96d3-7a9ba8522d05)
+  ![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/114421539/256db597-53bd-40cb-83e8-787b62b0da02)
 
-  ![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/114421539/7fb03659-d65f-4438-81f7-10cc07e61c6e)
+  ![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/114421539/caae3524-1dee-4ac8-8b52-720ab9a9ae15)
 
-  ![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/114421539/f0a85cb5-8cdb-477d-b278-2cb34f28cd07)
+  ![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/114421539/fb7751e0-3ba3-47a9-b52f-64be55ba69f7)
 
 - Heiter
 
-  ![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/114421539/32afa6a1-63ab-4f68-95f5-102adc48de38)
+  ![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/114421539/f46df75f-4f00-479a-b07a-5caff2d0b7ff)
 
-  ![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/114421539/831854e6-3246-470d-bbd0-de1b3e36ac16)
+  ![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/114421539/5887989c-eeca-4d85-9a57-ab8e5e35814f)
 
-  ![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/114421539/09b29002-5b7b-49a8-af2a-8ade2f0a98bf)
+  ![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/114421539/50600168-6b59-4276-8bfb-e30f24e6be78)
+
+- LaubHills
+
+  ![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/114421539/9b80a295-213b-46f0-a6ce-2951fccca7b6)
+
+  ![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/114421539/261dbbc4-c25d-4577-891d-418ab25d5cd0)
+
+- AppetitRegion
+
+  ![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/114421539/52685f0d-3493-4364-bb9f-ca8ed34cd1db)
+
+  ![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/114421539/416061d6-8f78-4a84-9f71-5b1e216dffd3)
+  
+- RohrRoad
+
+  ![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/114421539/6ff29f8b-0d8b-42dd-ab49-4cd6ae176dc5)
+
+  ![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/114421539/7cc9106b-dd27-459c-898a-7a0bd9702d3a)
+
+- SchwerMountains
+
+  ![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/114421539/e57d8150-93a1-4e99-8e94-a95de1416b4f)
+
+  ![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/114421539/42c3f853-68f6-4458-955a-f0a023825225)
+
+- BredtRegion
+
+  ![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/114421539/8fc25376-89ca-4ae7-af03-66f6a8297850)
+
+  ![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/114421539/da0f53a4-ac21-41dc-9382-39074ed1e10e)
+  
+- RiegelCanyon
+
+  ![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/114421539/8bca7692-fe15-4f48-ad07-6a9abea80056)
+
+  ![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/114421539/bcf01e0c-9036-4566-80c2-fe0f76feedb7)
+ 
+- LakeKorridor
+
+  ![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/114421539/c92aef19-dc45-4790-9a4f-e41e503483f9)
+
+  ![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/114421539/8d6963f7-a3e3-4f28-84c8-6730f5a5ad90)
+  
+- GranzChannel
+
+  ![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/114421539/60d7d955-7aeb-4a19-8cfd-2464ad0494f0)
+
+  ![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/114421539/60720759-74e5-476b-bca1-11168c3d087e)
+
+- GrobeForest
+
+  ![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/114421539/b5472c04-ec96-40b4-a76a-4326d6881f96)
+
+  ![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/114421539/259e2276-6a4f-4bae-94bd-15055102e70d)
+  
+- TurkRegion
+
+  ![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/114421539/bfcfd99a-15c6-43f7-a426-2df2ddc48fd8)
+
+  ![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/114421539/0c45891f-4478-427c-83f0-e29c10d42c2a)
+
+- WilleRegion
+
+  ![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/114421539/2aab1672-6ad1-44c9-9ba7-fd7aaa4500a4)
+
+  ![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/114421539/6cec51cc-3908-4f31-a10d-14e636dd0ff8)
+
+- RoyalCapital
+
+  ![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/114421539/fb883e5b-a4ac-49f6-8c15-45964ca2d374)
+
+  ![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/114421539/9f4bee3a-c033-420c-852a-446b75c24745)
+
+- Richter
+
+  ![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/114421539/45e30229-2833-4c6a-bbe6-d91343cd87d8)
+
+  ![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/114421539/8386b115-8014-4e50-b400-3a754b956442)
+
+- Revolte
+
+  ![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/114421539/7387bac6-ab3f-4110-a425-1dd5a24a9d34)
+
+  ![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/114421539/895f2bff-e596-4059-a6f3-c70d220e4204)
+
+- Stark
+
+  ![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/114421539/3e732bf6-8457-4ef9-aec0-ce344b036854)
+
+  ![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/114421539/6ffaea17-1b7e-4527-8ac7-e32e503e5e2a)
+
+- Sein
+
+  ![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/114421539/7fbeca35-0959-4083-87ab-c1f52765f259)
+
+  ![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/114421539/b4bae955-2201-4577-9c6b-b7351d577959)
  
 ### Testing
 
