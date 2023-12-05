@@ -555,8 +555,11 @@ Di sini kami melakukan ping dari client **AppetitRegion** ke client **GranzChann
 
 - Aura
   <img width="179" alt="Screen Shot 2023-12-05 at 19 21 16" src="https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/114421539/0981b801-30d1-43cb-8b1d-ce4ef7b9a366">
+  
   <img width="500" alt="Screen Shot 2023-12-05 at 19 23 12" src="https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/114421539/f91c4636-1d5b-4f1c-8bcf-fc8df2689f2c">
+  
   <img width="500" alt="Screen Shot 2023-12-05 at 19 22 55" src="https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/114421539/60a86857-dd81-47ba-9d26-4af0ea798a62">
+  
   <img width="500" alt="Screen Shot 2023-12-05 at 19 22 18" src="https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/114421539/ff94de05-fd44-4c3e-b30f-f1bdd99cf6a2">
 
 
