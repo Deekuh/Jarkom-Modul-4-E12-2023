@@ -554,3 +554,11 @@ Sebagai contoh, di sini kami melakukan ping dari client **AppetitRegion** ke cli
 ### Config dan Routing CPT
 
 - Aura
+
+### Testing
+
+Di sini kami melakukan ping dari client **AppetitRegion** ke client **GranzChannel**, dari client **SchwerMountains** ke client **WilleRegion**, dari client **LakeKorridor** ke server **Sein**, dan dari client **GrobeForest** ke client **SchwerMountains** dengan hasil sebagai berikut.
+
+![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/90295688/f5669d04-4ea9-4851-9c53-fc3abb2975b3)
+
+![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/90295688/1229735b-e11e-4410-9d0f-efc704867edb)
