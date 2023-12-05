@@ -38,7 +38,7 @@
 
 ### Tree VLSM
 
-![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/90295688/a660e25a-1a6c-455d-957b-11a6b18db8fc)
+![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/90295688/831128a7-9e39-4ad3-b301-75553269cca0)
 
 ### Pembagian IP VLSM
 
@@ -483,16 +483,74 @@ route add -net 192.212.16.0 netmask 255.255.252.0 gw 192.212.0.131 #A20
 route add -net 0.0.0.0 netmask 0.0.0.0 gw 192.212.0.129 #default
 ```
 
+### Testing
+
+Sebagai contoh, di sini kami melakukan ping dari client **AppetitRegion** ke client **GranzChannel** dengan IP Address 192.212.4.2.
+
+![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/90295688/122f0f5c-cb44-4df7-9258-1f159a1df685)
+
+
 ## CIDR pada CPT
 
 
 ### Penggabungan Subnet
 
+- Langkah 1
+
+![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/90295688/c411cd18-2b18-460a-bbb4-1836789ccf44)
+
+![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/90295688/7e64ff29-6cd5-4914-8d4a-6b71874856c4)
+
+- Langkah 2
+
+![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/90295688/4748fcde-c8c6-4aaf-b760-e32e7ec69096)
+
+![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/90295688/28cd647f-90fd-4c1d-8208-203645294652)
+
+- Langkah 3
+
+![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/90295688/f3dda6d0-6435-4773-ac94-4e3106a5a985)
+
+![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/90295688/bea0d78d-fdd6-4bfc-bee6-db12e14884f4)
+
+- Langkah 4
+
+![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/90295688/80bb014a-c75c-466a-a3af-f9af0fc68a5f)
+
+![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/90295688/48006d0f-a41f-4c6f-81f5-8c72d16ec7ea)
+
+- Langkah 5
+
+![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/90295688/191e0414-6209-4674-8654-759f25271774)
+
+![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/90295688/6562e7f3-ecea-43a4-ac03-6fed3fb21873)
+
+- Langkah 6
+
+![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/90295688/680d6f8d-ff08-4f5e-b5c8-62c3a889a25e)
+
+![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/90295688/99031ec1-5f22-4c95-9968-f91d087cd359)
+
+- Langkah 7
+
+![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/90295688/56ffaad9-b6d1-4cc6-bae2-91e3aaa7e4ec)
+
+![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/90295688/65cce67e-8821-42e2-b9b2-0b24825e34c4)
+
+- Langkah 8
+
+![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/90295688/9139afe4-0a1b-41e5-afb4-0da6c8d91f45)
+
+![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/90295688/c1e70a00-cf0a-44a2-9205-ad30c01006c5)
 
 ### Tree CIDR
 
+![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/90295688/eb8f37ab-2a01-43fe-a4a6-8f07076d69b9)
 
 ### Pembagian IP CIDR
 
+![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/90295688/eb220455-0b18-49bd-a15f-5e8596183422)
 
 ### Config dan Routing CPT
+
+- Aura
