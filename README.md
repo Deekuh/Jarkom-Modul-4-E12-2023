@@ -38,11 +38,11 @@
 
 ### Tree VLSM
 
-![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/90295688/831128a7-9e39-4ad3-b301-75553269cca0)
+![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/90295688/814a4733-6f6d-4a67-926a-30588d1ea0b8)
 
 ### Pembagian IP VLSM
 
-![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/90295688/012733f8-9b3d-4e77-8415-e9d4dcc501ae)
+![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/90295688/eaaa73d7-ec30-4e2e-8741-544667226e88)
 
 ### Config GNS3
 
@@ -53,18 +53,18 @@ iface eth0 inet dhcp
 
 auto eth1
 iface eth1 inet static
-    address 192.212.0.13
-    netmask 255.255.255.252
+	address 192.212.0.13
+	netmask 255.255.255.252
 
 auto eth2
 iface eth2 inet static
-    address 192.212.0.21
-    netmask 255.255.255.252
+	address 192.212.0.21
+	netmask 255.255.255.252
 
 auto eth3
 iface eth3 inet static
-    address 192.212.0.9
-    netmask 255.255.255.252
+	address 192.212.0.9
+	netmask 255.255.255.252
 ```
 
 - Frieren
@@ -81,7 +81,7 @@ iface eth1 inet static
 
 auto eth2
 iface eth2 inet static
-	address 192.212.4.1
+	address 192.212.0.5
 	netmask 255.255.255.252
 ```
 
@@ -89,7 +89,7 @@ iface eth2 inet static
 ```
 auto eth0
 iface eth0 inet static
-	address 192.212.4.2
+	address 192.212.0.6
 	netmask 255.255.255.252
 
 auto eth1
@@ -193,7 +193,7 @@ iface eth0 inet static
 
 auto eth1
 iface eth1 inet static
-	address 192.212.0.41
+	address 192.212.1.1
 	netmask 255.255.255.0
 ```
 
@@ -202,9 +202,9 @@ iface eth1 inet static
 ```
 auto eth0
 iface eth0 inet static
-	address 192.212.0.42
+	address 192.212.1.2
 	netmask 255.255.255.0
-	gateway 192.212.0.41
+	gateway 192.212.1.1
 ```
 
 
@@ -212,9 +212,9 @@ iface eth0 inet static
 ```
 auto eth0
 iface eth0 inet static
-	address 192.212.0.43
+	address 192.212.1.3
 	netmask 255.255.255.0
-	gateway 192.212.0.41
+	gateway 192.212.1.1
 ```
 
 - Eisen
@@ -397,39 +397,39 @@ route add -net 192.212.24.0 netmask 255.255.248.0 gw 192.212.0.10 #A1
 route add -net 192.212.0.64 netmask 255.255.255.224 gw 192.212.0.10 #A2
 route add -net 192.212.0.0 netmask 255.255.255.252 gw 192.212.0.10 #A3
 route add -net 192.212.8.0 netmask 255.255.252.0 gw 192.212.0.10 #A4
-route add -net 192.212.4.0 netmask 255.255.255.252 gw 192.212.0.10 #A5
+route add -net 192.212.0.4 netmask 255.255.255.252 gw 192.212.0.10 #A5
 route add -net 192.212.0.40 netmask 255.255.255.248 gw 192.212.0.10 #A9
 route add -net 192.212.0.16 netmask 255.255.255.252 gw 192.212.0.10 #A10
 
 # Kanan
-route add -net 192.212.1.0 netmask 255.255.255.0 gw 192.212.0.14 #A10
+route add -net 192.212.1.0 netmask 255.255.255.0 gw 192.212.0.14 #A8
 
 # Bawah
-route add -net 192.212.0.48 netmask 255.255.255.248 gw 192.212.0.14 #A11
-route add -net 192.212.0.24 netmask 255.255.255.252 gw 192.212.0.14 #A13
-route add -net 192.212.0.28 netmask 255.255.255.252 gw 192.212.0.14 #A14
-route add -net 192.212.12.0 netmask 255.255.252.0 gw 192.212.0.14 #A15
-route add -net 192.212.2.0 netmask 255.255.255.0 gw 192.212.0.14 #A16
-route add -net 192.212.0.32 netmask 255.255.255.252 gw 192.212.0.14 #A17
-route add -net 192.212.0.128 netmask 255.255.255.192 gw 192.212.0.14 #A18
-route add -net 192.212.0.36 netmask 255.255.255.252 gw 192.212.0.14 #A19
-route add -net 192.212.16.0 netmask 255.255.252.0 gw 192.212.0.14 #A20
-route add -net 192.212.4.0 netmask 255.255.254.0 gw 192.212.0.14 #A21
+route add -net 192.212.0.48 netmask 255.255.255.248 gw 192.212.0.22 #A11
+route add -net 192.212.0.24 netmask 255.255.255.252 gw 192.212.0.22 #A13
+route add -net 192.212.0.28 netmask 255.255.255.252 gw 192.212.0.22 #A14
+route add -net 192.212.12.0 netmask 255.255.252.0 gw 192.212.0.22 #A15
+route add -net 192.212.2.0 netmask 255.255.255.0 gw 192.212.0.22 #A16
+route add -net 192.212.0.32 netmask 255.255.255.252 gw 192.212.0.22 #A17
+route add -net 192.212.0.128 netmask 255.255.255.192 gw 192.212.0.22 #A18
+route add -net 192.212.0.36 netmask 255.255.255.252 gw 192.212.0.22 #A19
+route add -net 192.212.16.0 netmask 255.255.252.0 gw 192.212.0.22 #A20
+route add -net 192.212.4.0 netmask 255.255.254.0 gw 192.212.0.22 #A21
 ```
 
 - Frieren
 ```
 route add -net 0.0.0.0 netmask 0.0.0.0 gw 192.212.0.9 #default
-route add -net 192.212.24.0 netmask 255.255.248.0 gw 192.212.4.2 #A1
-route add -net 192.212.0.0 netmask 255.255.255.252 gw 192.212.4.2 #A3
-route add -net 192.212.8.0 netmask 255.255.252.0 gw 192.212.4.2 #A4
-route add -net 192.212.0.40 netmask 255.255.255.248 gw 192.212.4.2 #A9
-route add -net 192.212.0.16 netmask 255.255.255.252 gw 192.212.4.2 #A10
+route add -net 192.212.24.0 netmask 255.255.248.0 gw 192.212.0.6 #A1
+route add -net 192.212.0.0 netmask 255.255.255.252 gw 192.212.0.6 #A3
+route add -net 192.212.8.0 netmask 255.255.252.0 gw 192.212.0.6 #A4
+route add -net 192.212.0.40 netmask 255.255.255.248 gw 192.212.0.6 #A9
+route add -net 192.212.0.16 netmask 255.255.255.252 gw 192.212.0.6 #A10
 ```
 
 - Flamme
 ```
-route add -net 0.0.0.0 netmask 0.0.0.0 gw 192.212.4.1 #default
+route add -net 0.0.0.0 netmask 0.0.0.0 gw 192.212.0.5 #default
 route add -net 192.212.24.0 netmask 255.255.248.0 gw 192.212.0.2 #A1
 route add -net 192.212.0.40 netmask 255.255.255.248 gw 192.212.0.18 #A9
 ```
@@ -545,7 +545,7 @@ Di sini kami melakukan ping dari client **AppetitRegion** ke client **GranzChann
 
 ### Tree CIDR
 
-![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/90295688/eb8f37ab-2a01-43fe-a4a6-8f07076d69b9)
+![image](https://github.com/Deekuh/Jarkom-Modul-4-E12-2023/assets/90295688/3c121708-331d-4ac8-b190-d7e9b4a85c6f)
 
 ### Pembagian IP CIDR
 
